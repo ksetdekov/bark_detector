@@ -59,6 +59,66 @@
           "error": ""
         }
       ]
+    },
+    {
+      "timestamp_utc": "2026-02-17T18:07:49.356611+00:00",
+      "input_dir": "data/train",
+      "totals": {
+        "found_m4a": 8,
+        "converted": 6,
+        "skipped": 2,
+        "failed": 0
+      },
+      "results": [
+        {
+          "source": "data/train/001.m4a",
+          "target": "data/train/001.mp3",
+          "status": "skipped",
+          "error": "target_exists"
+        },
+        {
+          "source": "data/train/002.m4a",
+          "target": "data/train/002.mp3",
+          "status": "skipped",
+          "error": "target_exists"
+        },
+        {
+          "source": "data/train/003.m4a",
+          "target": "data/train/003.mp3",
+          "status": "converted",
+          "error": ""
+        },
+        {
+          "source": "data/train/004.m4a",
+          "target": "data/train/004.mp3",
+          "status": "converted",
+          "error": ""
+        },
+        {
+          "source": "data/train/005.m4a",
+          "target": "data/train/005.mp3",
+          "status": "converted",
+          "error": ""
+        },
+        {
+          "source": "data/train/006.m4a",
+          "target": "data/train/006.mp3",
+          "status": "converted",
+          "error": ""
+        },
+        {
+          "source": "data/train/007.m4a",
+          "target": "data/train/007.mp3",
+          "status": "converted",
+          "error": ""
+        },
+        {
+          "source": "data/train/008.m4a",
+          "target": "data/train/008.mp3",
+          "status": "converted",
+          "error": ""
+        }
+      ]
     }
   ]
 }

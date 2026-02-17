@@ -1,3 +1,9 @@
 source,target,status,error
 data/train/001.m4a,data/train/001.mp3,skipped,target_exists
-data/train/002.m4a,data/train/002.mp3,converted,
+data/train/002.m4a,data/train/002.mp3,skipped,target_exists
+data/train/003.m4a,data/train/003.mp3,converted,
+data/train/004.m4a,data/train/004.mp3,converted,
+data/train/005.m4a,data/train/005.mp3,converted,
+data/train/006.m4a,data/train/006.mp3,converted,
+data/train/007.m4a,data/train/007.mp3,converted,
+data/train/008.m4a,data/train/008.mp3,converted,
